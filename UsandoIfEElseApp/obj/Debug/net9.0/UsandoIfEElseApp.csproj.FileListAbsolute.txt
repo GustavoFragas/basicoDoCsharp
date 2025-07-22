@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\bin\Debug\net9.0\UsandoIfEElseApp.exe
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\bin\Debug\net9.0\UsandoIfEElseApp.deps.json
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\bin\Debug\net9.0\UsandoIfEElseApp.runtimeconfig.json
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\bin\Debug\net9.0\UsandoIfEElseApp.dll
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\bin\Debug\net9.0\UsandoIfEElseApp.pdb
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.sourcelink.json
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.dll
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\refint\UsandoIfEElseApp.dll
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.pdb
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\UsandoIfEElseApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\UsandoIfEELSEApp\obj\Debug\net9.0\ref\UsandoIfEElseApp.dll

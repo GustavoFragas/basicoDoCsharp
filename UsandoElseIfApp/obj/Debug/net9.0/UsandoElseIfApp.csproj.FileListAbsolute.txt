@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\UsandoElseIfApp\bin\Debug\net9.0\UsandoElseIfApp.exe
+C:\gustavodocuments\.NET\UsandoElseIfApp\bin\Debug\net9.0\UsandoElseIfApp.deps.json
+C:\gustavodocuments\.NET\UsandoElseIfApp\bin\Debug\net9.0\UsandoElseIfApp.runtimeconfig.json
+C:\gustavodocuments\.NET\UsandoElseIfApp\bin\Debug\net9.0\UsandoElseIfApp.dll
+C:\gustavodocuments\.NET\UsandoElseIfApp\bin\Debug\net9.0\UsandoElseIfApp.pdb
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.sourcelink.json
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.dll
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\refint\UsandoElseIfApp.dll
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.pdb
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\UsandoElseIfApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\UsandoElseIfApp\obj\Debug\net9.0\ref\UsandoElseIfApp.dll

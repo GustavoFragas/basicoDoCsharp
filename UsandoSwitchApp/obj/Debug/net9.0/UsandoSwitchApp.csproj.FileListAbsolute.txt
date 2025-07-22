@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\UsandoSwitchApp\bin\Debug\net9.0\UsandoSwitchApp.exe
+C:\gustavodocuments\.NET\UsandoSwitchApp\bin\Debug\net9.0\UsandoSwitchApp.deps.json
+C:\gustavodocuments\.NET\UsandoSwitchApp\bin\Debug\net9.0\UsandoSwitchApp.runtimeconfig.json
+C:\gustavodocuments\.NET\UsandoSwitchApp\bin\Debug\net9.0\UsandoSwitchApp.dll
+C:\gustavodocuments\.NET\UsandoSwitchApp\bin\Debug\net9.0\UsandoSwitchApp.pdb
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.sourcelink.json
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.dll
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\refint\UsandoSwitchApp.dll
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.pdb
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\UsandoSwitchApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\UsandoSwitchApp\obj\Debug\net9.0\ref\UsandoSwitchApp.dll

@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\NotaEscolarApp\bin\Debug\net9.0\NotaEscolarApp.exe
+C:\gustavodocuments\.NET\NotaEscolarApp\bin\Debug\net9.0\NotaEscolarApp.deps.json
+C:\gustavodocuments\.NET\NotaEscolarApp\bin\Debug\net9.0\NotaEscolarApp.runtimeconfig.json
+C:\gustavodocuments\.NET\NotaEscolarApp\bin\Debug\net9.0\NotaEscolarApp.dll
+C:\gustavodocuments\.NET\NotaEscolarApp\bin\Debug\net9.0\NotaEscolarApp.pdb
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.sourcelink.json
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.dll
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\refint\NotaEscolarApp.dll
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.pdb
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\NotaEscolarApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\NotaEscolarApp\obj\Debug\net9.0\ref\NotaEscolarApp.dll
