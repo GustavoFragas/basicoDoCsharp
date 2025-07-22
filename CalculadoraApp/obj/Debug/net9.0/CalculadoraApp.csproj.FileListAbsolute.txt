@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\CalculadoraApp\bin\Debug\net9.0\CalculadoraApp.exe
+C:\gustavodocuments\.NET\CalculadoraApp\bin\Debug\net9.0\CalculadoraApp.deps.json
+C:\gustavodocuments\.NET\CalculadoraApp\bin\Debug\net9.0\CalculadoraApp.runtimeconfig.json
+C:\gustavodocuments\.NET\CalculadoraApp\bin\Debug\net9.0\CalculadoraApp.dll
+C:\gustavodocuments\.NET\CalculadoraApp\bin\Debug\net9.0\CalculadoraApp.pdb
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.sourcelink.json
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.dll
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\refint\CalculadoraApp.dll
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.pdb
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\CalculadoraApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\CalculadoraApp\obj\Debug\net9.0\ref\CalculadoraApp.dll

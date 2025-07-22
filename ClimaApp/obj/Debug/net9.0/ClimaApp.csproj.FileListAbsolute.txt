@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\ClimaApp\bin\Debug\net9.0\ClimaApp.exe
+C:\gustavodocuments\.NET\ClimaApp\bin\Debug\net9.0\ClimaApp.deps.json
+C:\gustavodocuments\.NET\ClimaApp\bin\Debug\net9.0\ClimaApp.runtimeconfig.json
+C:\gustavodocuments\.NET\ClimaApp\bin\Debug\net9.0\ClimaApp.dll
+C:\gustavodocuments\.NET\ClimaApp\bin\Debug\net9.0\ClimaApp.pdb
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.sourcelink.json
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.dll
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\refint\ClimaApp.dll
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.pdb
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ClimaApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\ClimaApp\obj\Debug\net9.0\ref\ClimaApp.dll

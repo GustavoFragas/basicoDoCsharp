@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\bin\Debug\net9.0\ManipulacaoDeDadosApp.exe
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\bin\Debug\net9.0\ManipulacaoDeDadosApp.deps.json
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\bin\Debug\net9.0\ManipulacaoDeDadosApp.runtimeconfig.json
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\bin\Debug\net9.0\ManipulacaoDeDadosApp.dll
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\bin\Debug\net9.0\ManipulacaoDeDadosApp.pdb
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.sourcelink.json
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.dll
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\refint\ManipulacaoDeDadosApp.dll
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.pdb
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ManipulacaoDeDadosApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\ManipulacaoDeDadosApp\obj\Debug\net9.0\ref\ManipulacaoDeDadosApp.dll

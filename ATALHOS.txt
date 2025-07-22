@@ -1,0 +1,19 @@
+CTRL + K + C = deixa tudo selecionado no modo comentario
+CTRL + K + U = Tira tudo do modo comentario
+
+Dotnet run = Rodar o código
+
+Dotnet Restore = Pegar pacotes essenciais para rodar o codigo (geralmente fazer depois de dar um fork em um código)
+
+Dotnet build = verificar erros de compilação
+
+Dotnet sln add NOMEDAPASTA/NOMEDOARQUIVO.CSPROJ  (para adicionar no solution explorer)
+
+cd + NOMEDAPASTA = para ir pro lugar
+cd ..  = voltar uma pasta
+
+dotnet new console -n NOMEDAPASTA (para criar uma pasta nova)
+
+ALT + Z = Faz com que seu código fique do tamanho da sua tela
+
+CTRL + ] = Abrir uma página ao lado

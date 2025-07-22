@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\ManipulacaoDeDados\bin\Debug\net9.0\ManipulacaoDeDados.exe
+C:\gustavodocuments\.NET\ManipulacaoDeDados\bin\Debug\net9.0\ManipulacaoDeDados.deps.json
+C:\gustavodocuments\.NET\ManipulacaoDeDados\bin\Debug\net9.0\ManipulacaoDeDados.runtimeconfig.json
+C:\gustavodocuments\.NET\ManipulacaoDeDados\bin\Debug\net9.0\ManipulacaoDeDados.dll
+C:\gustavodocuments\.NET\ManipulacaoDeDados\bin\Debug\net9.0\ManipulacaoDeDados.pdb
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.AssemblyInfo.cs
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.sourcelink.json
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.dll
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\refint\ManipulacaoDeDados.dll
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.pdb
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ManipulacaoDeDados.genruntimeconfig.cache
+C:\gustavodocuments\.NET\ManipulacaoDeDados\obj\Debug\net9.0\ref\ManipulacaoDeDados.dll

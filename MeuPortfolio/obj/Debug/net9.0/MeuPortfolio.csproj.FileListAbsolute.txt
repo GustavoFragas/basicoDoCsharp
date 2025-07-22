@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\MeuPortfolio\bin\Debug\net9.0\MeuPortfolio.exe
+C:\gustavodocuments\.NET\MeuPortfolio\bin\Debug\net9.0\MeuPortfolio.deps.json
+C:\gustavodocuments\.NET\MeuPortfolio\bin\Debug\net9.0\MeuPortfolio.runtimeconfig.json
+C:\gustavodocuments\.NET\MeuPortfolio\bin\Debug\net9.0\MeuPortfolio.dll
+C:\gustavodocuments\.NET\MeuPortfolio\bin\Debug\net9.0\MeuPortfolio.pdb
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.AssemblyInfo.cs
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.sourcelink.json
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.dll
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\refint\MeuPortfolio.dll
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.pdb
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\MeuPortfolio.genruntimeconfig.cache
+C:\gustavodocuments\.NET\MeuPortfolio\obj\Debug\net9.0\ref\MeuPortfolio.dll

@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\PessoaApp\bin\Debug\net9.0\PessoaApp.exe
+C:\gustavodocuments\.NET\PessoaApp\bin\Debug\net9.0\PessoaApp.deps.json
+C:\gustavodocuments\.NET\PessoaApp\bin\Debug\net9.0\PessoaApp.runtimeconfig.json
+C:\gustavodocuments\.NET\PessoaApp\bin\Debug\net9.0\PessoaApp.dll
+C:\gustavodocuments\.NET\PessoaApp\bin\Debug\net9.0\PessoaApp.pdb
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.sourcelink.json
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.dll
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\refint\PessoaApp.dll
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.pdb
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\PessoaApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\PessoaApp\obj\Debug\net9.0\ref\PessoaApp.dll

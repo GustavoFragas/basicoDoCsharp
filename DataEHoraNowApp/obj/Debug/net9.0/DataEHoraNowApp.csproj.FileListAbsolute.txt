@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\DataEHoraNowApp\bin\Debug\net9.0\DataEHoraNowApp.exe
+C:\gustavodocuments\.NET\DataEHoraNowApp\bin\Debug\net9.0\DataEHoraNowApp.deps.json
+C:\gustavodocuments\.NET\DataEHoraNowApp\bin\Debug\net9.0\DataEHoraNowApp.runtimeconfig.json
+C:\gustavodocuments\.NET\DataEHoraNowApp\bin\Debug\net9.0\DataEHoraNowApp.dll
+C:\gustavodocuments\.NET\DataEHoraNowApp\bin\Debug\net9.0\DataEHoraNowApp.pdb
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.sourcelink.json
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.dll
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\refint\DataEHoraNowApp.dll
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.pdb
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\DataEHoraNowApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\DataEHoraNowApp\obj\Debug\net9.0\ref\DataEHoraNowApp.dll
