@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsandoElseIfApp", "UsandoEl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotaEscolarApp", "NotaEscolarApp\NotaEscolarApp.csproj", "{9B48EB38-EEE3-4350-A964-DD38CD89B3FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotaEscolarInterativoApp", "NotaEscolarInterativoApp\NotaEscolarInterativoApp.csproj", "{838D9629-426F-49A8-B520-F7FD7B9C136C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,18 @@ Global
 		{9B48EB38-EEE3-4350-A964-DD38CD89B3FA}.Release|x64.Build.0 = Release|Any CPU
 		{9B48EB38-EEE3-4350-A964-DD38CD89B3FA}.Release|x86.ActiveCfg = Release|Any CPU
 		{9B48EB38-EEE3-4350-A964-DD38CD89B3FA}.Release|x86.Build.0 = Release|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Debug|x64.Build.0 = Debug|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Debug|x86.Build.0 = Debug|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Release|x64.ActiveCfg = Release|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Release|x64.Build.0 = Release|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Release|x86.ActiveCfg = Release|Any CPU
+		{838D9629-426F-49A8-B520-F7FD7B9C136C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

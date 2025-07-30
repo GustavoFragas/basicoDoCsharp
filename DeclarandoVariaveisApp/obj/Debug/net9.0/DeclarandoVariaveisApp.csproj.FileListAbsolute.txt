@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\bin\Debug\net9.0\DeclarandoVariaveisApp.exe
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\bin\Debug\net9.0\DeclarandoVariaveisApp.deps.json
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\bin\Debug\net9.0\DeclarandoVariaveisApp.runtimeconfig.json
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\bin\Debug\net9.0\DeclarandoVariaveisApp.dll
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\bin\Debug\net9.0\DeclarandoVariaveisApp.pdb
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.sourcelink.json
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.dll
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\refint\DeclarandoVariaveisApp.dll
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.pdb
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\DeclarandoVariaveisApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\DeclarandoVariaveisApp\obj\Debug\net9.0\ref\DeclarandoVariaveisApp.dll

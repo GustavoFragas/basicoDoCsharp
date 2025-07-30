@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.sourcelink.json
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\bin\Debug\net9.0\NotaEscolarInterativoApp.exe
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\bin\Debug\net9.0\NotaEscolarInterativoApp.deps.json
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\bin\Debug\net9.0\NotaEscolarInterativoApp.runtimeconfig.json
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\bin\Debug\net9.0\NotaEscolarInterativoApp.dll
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\bin\Debug\net9.0\NotaEscolarInterativoApp.pdb
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.dll
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\refint\NotaEscolarInterativoApp.dll
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.pdb
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\NotaEscolarInterativoApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\NotaEscolarInterativoApp\obj\Debug\net9.0\ref\NotaEscolarInterativoApp.dll
