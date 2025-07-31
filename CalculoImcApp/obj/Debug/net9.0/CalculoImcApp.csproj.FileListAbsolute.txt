@@ -1,0 +1,15 @@
+C:\gustavodocuments\.NET\CalculoImcApp\bin\Debug\net9.0\CalculoImcApp.exe
+C:\gustavodocuments\.NET\CalculoImcApp\bin\Debug\net9.0\CalculoImcApp.deps.json
+C:\gustavodocuments\.NET\CalculoImcApp\bin\Debug\net9.0\CalculoImcApp.runtimeconfig.json
+C:\gustavodocuments\.NET\CalculoImcApp\bin\Debug\net9.0\CalculoImcApp.dll
+C:\gustavodocuments\.NET\CalculoImcApp\bin\Debug\net9.0\CalculoImcApp.pdb
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.AssemblyInfoInputs.cache
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.AssemblyInfo.cs
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.csproj.CoreCompileInputs.cache
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.sourcelink.json
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.dll
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\refint\CalculoImcApp.dll
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.pdb
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\CalculoImcApp.genruntimeconfig.cache
+C:\gustavodocuments\.NET\CalculoImcApp\obj\Debug\net9.0\ref\CalculoImcApp.dll

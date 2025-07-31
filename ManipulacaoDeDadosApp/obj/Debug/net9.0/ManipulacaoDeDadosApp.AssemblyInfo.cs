@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManipulacaoDeDadosApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6a1f89010e847eafd99c8d27a6175e8961a5164")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48cc4ba2101bcba02a04ae8028699e06eca9ca74")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManipulacaoDeDadosApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManipulacaoDeDadosApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
