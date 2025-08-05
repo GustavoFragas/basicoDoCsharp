@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoImcApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48cc4ba2101bcba02a04ae8028699e06eca9ca74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2452687af3fa7922d5768858aca0ddfb7327ede8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoImcApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoImcApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
